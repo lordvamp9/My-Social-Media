@@ -10,21 +10,21 @@ Una red social privada diseñada para grupos de amigos o parejas. Utiliza tecnol
 
 Desarrollado por **vamp9**.
 
-## 🌟 Demo
-
+## Demo
+[my-social-web.netlify.app](url)
 **[¡Prueba la aplicación aquí!](#)** *(Añade tu enlace de Netlify aquí)*
 
-## ✨ Características
+##  Características
 
-- **🔒 Salas Privadas Seguras**: Generación de códigos UUID únicos para cada sesión, garantizando que nadie pueda adivinar tu sala.
-- **💬 Chat en Tiempo Real**: Envío y recepción de mensajes instantáneos sin servidores intermediarios (P2P).
-- **📹 Videollamadas**: Conéctate cara a cara con tus amigos de forma fluida.
-- **🖥️ Compartir Pantalla**: Función estilo Discord para retransmitir tu pantalla durante una llamada.
-- **📎 Transferencia de Archivos**: Envía imágenes y documentos directamente.
-- **🔔 Zumbidos**: ¡Envía un clásico zumbido para llamar la atención!
-- **🎨 Diseño Híbrido**: Disposición estructurada y cómoda inspirada en Discord, con los nostálgicos colores y estilo visual de MSN Messenger (glassmorphism).
+- ** Salas Privadas Seguras**: Generación de códigos UUID únicos para cada sesión, garantizando que nadie pueda adivinar tu sala.
+- ** Chat en Tiempo Real**: Envío y recepción de mensajes instantáneos sin servidores intermediarios (P2P).
+- ** Videollamadas**: Conéctate cara a cara con tus amigos de forma fluida.
+- ** Compartir Pantalla**: Función estilo Discord para retransmitir tu pantalla durante una llamada.
+- ** Transferencia de Archivos**: Envía imágenes y documentos directamente.
+- ** Zumbidos**: ¡Envía un clásico zumbido para llamar la atención!
+- ** Diseño Híbrido**: Disposición estructurada y cómoda inspirada en Discord, con los nostálgicos colores y estilo visual de MSN Messenger (glassmorphism).
 
-## 🚀 Tecnologías
+## Tecnologías
 
 - **Astro**: Framework web súper rápido.
 - **React**: Gestión de componentes interactivos y estado de la UI.
@@ -33,7 +33,7 @@ Desarrollado por **vamp9**.
 - **PeerJS**: Abstracción de WebRTC para conexiones P2P.
 - **Lucide React**: Iconografía moderna.
 
-## 🛠️ Instalación y Uso Local
+##  Instalación y Uso Local
 
 1. Clona este repositorio:
    ```bash
@@ -49,6 +49,6 @@ Desarrollado por **vamp9**.
    ```
 4. Abre `http://localhost:4321` en tu navegador.
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
