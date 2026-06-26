@@ -12,7 +12,6 @@ Desarrollado por **vamp9**.
 
 ## Demo
 [my-social-web.netlify.app](url)
-**[¡Prueba la aplicación aquí!](#)** *(Añade tu enlace de Netlify aquí)*
 
 ##  Características
 
