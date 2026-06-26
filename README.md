@@ -11,7 +11,7 @@ Una red social privada diseñada para grupos de amigos o parejas. Utiliza tecnol
 Desarrollado por **vamp9**.
 
 ## Demo
-[my-social-web.netlify.app](url)
+[https://my-social-web.netlify.app/](url)
 
 ##  Características
 
